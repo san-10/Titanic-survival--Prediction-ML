@@ -1,4 +1,4 @@
-# Titanic-survival-Prediction-ML
+# Titanic-survival-Prediction-Machine learning 
 
  - Our model predicts 81% of the time,a passengers survives correctly (precision).
  
